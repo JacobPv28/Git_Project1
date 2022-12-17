@@ -2,7 +2,8 @@
 
 int main(){
   
-  print("Test 1, creacion.");
+  printf("Test 1, creacion.");
+  printf("test 2,modificacion del archivo.");
 
  return 0;
 
