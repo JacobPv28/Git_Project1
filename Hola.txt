@@ -1,0 +1,9 @@
+#include <stdio.h>
+
+int main(){
+  
+  print("Test 1, creacion.");
+
+ return 0;
+
+}
